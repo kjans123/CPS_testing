@@ -18,6 +18,11 @@ class MaxDifference:
 
 
     def findMax(self):
+        """"method for actually finding the maxDifference
+
+        :returns: max difference as float
+        """
+
         try:
             import math as mt
             import logging

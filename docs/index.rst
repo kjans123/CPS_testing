@@ -1,11 +1,10 @@
-.. CPS_testing documentation master file, created by
-
-   sphinx-quickstart on Thu Feb 15 19:57:44 2018.
+.. CPS_testing_06 documentation master file, created by
+   sphinx-quickstart on Sat Feb 17 13:40:26 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to CPS_testing's documentation!
-=======================================
+Welcome to CPS_testing_06's documentation!
+==========================================
 
 .. toctree::
    :maxdepth: 2

@@ -1,0 +1,158 @@
+
+INFO 02/17/2018 01:22:20 PM Succesfully imported modules
+INFO 02/17/2018 01:22:20 PM Found difference
+DEBUG 02/17/2018 01:22:20 PM Difference =2
+INFO 02/17/2018 01:22:20 PM Found difference
+DEBUG 02/17/2018 01:22:20 PM Difference =1
+INFO 02/17/2018 01:22:20 PM Found difference
+DEBUG 02/17/2018 01:22:20 PM Difference =65
+INFO 02/17/2018 01:22:20 PM Finished
+DEBUG 02/17/2018 01:22:20 PM Max Difference= 65
+INFO 02/17/2018 01:36:21 PM Succesfully imported modules
+INFO 02/17/2018 01:36:21 PM Found difference
+DEBUG 02/17/2018 01:36:21 PM Difference =1
+INFO 02/17/2018 01:36:21 PM Found difference
+DEBUG 02/17/2018 01:36:21 PM Difference =1
+INFO 02/17/2018 01:36:21 PM Found difference
+DEBUG 02/17/2018 01:36:21 PM Difference =5
+INFO 02/17/2018 01:36:21 PM Finished
+DEBUG 02/17/2018 01:36:21 PM Max Difference= 5
+INFO 02/17/2018 01:36:21 PM Begin
+INFO 02/17/2018 01:36:21 PM Recorded the minimum value
+INFO 02/17/2018 01:36:21 PM Recorded the maximum value
+INFO 02/17/2018 01:36:21 PM Created the tuple
+INFO 02/17/2018 01:36:21 PM Begin
+INFO 02/17/2018 01:36:21 PM Recorded the minimum value
+INFO 02/17/2018 01:36:21 PM Recorded the maximum value
+INFO 02/17/2018 01:36:21 PM Created the tuple
+INFO 02/17/2018 01:36:21 PM Begin
+INFO 02/17/2018 01:36:21 PM Recorded the minimum value
+INFO 02/17/2018 01:36:21 PM Recorded the maximum value
+INFO 02/17/2018 01:36:21 PM Created the tuple
+INFO 02/17/2018 01:36:21 PM Begin
+INFO 02/17/2018 01:36:21 PM Recorded the minimum value
+INFO 02/17/2018 01:36:21 PM Recorded the maximum value
+INFO 02/17/2018 01:36:21 PM Created the tuple
+INFO 02/17/2018 01:36:21 PM Succesfully imported modules
+INFO 02/17/2018 01:36:21 PM Found difference
+DEBUG 02/17/2018 01:36:21 PM Difference =1
+INFO 02/17/2018 01:36:21 PM Found difference
+DEBUG 02/17/2018 01:36:21 PM Difference =1
+INFO 02/17/2018 01:36:21 PM Found difference
+DEBUG 02/17/2018 01:36:21 PM Difference =3
+INFO 02/17/2018 01:36:21 PM Found difference
+DEBUG 02/17/2018 01:36:21 PM Difference =4
+INFO 02/17/2018 01:36:21 PM Finished
+DEBUG 02/17/2018 01:36:21 PM Max Difference= 4
+INFO 02/17/2018 01:36:21 PM Succesfully imported modules
+INFO 02/17/2018 01:36:21 PM Found difference
+DEBUG 02/17/2018 01:36:21 PM Difference =1
+INFO 02/17/2018 01:36:21 PM Found difference
+DEBUG 02/17/2018 01:36:21 PM Difference =1
+INFO 02/17/2018 01:36:21 PM Found difference
+DEBUG 02/17/2018 01:36:21 PM Difference =5
+INFO 02/17/2018 01:36:21 PM Finished
+DEBUG 02/17/2018 01:36:21 PM Max Difference= 5
+INFO 02/17/2018 01:36:21 PM Summation function initiated
+INFO 02/17/2018 01:36:21 PM Numpy was successfully imported
+INFO 02/17/2018 01:36:21 PM Numbers added successfully
+DEBUG 02/17/2018 01:36:21 PM Sum = 9
+INFO 02/17/2018 01:36:21 PM Summation completed successfully
+INFO 02/17/2018 01:36:21 PM Summation function initiated
+INFO 02/17/2018 01:36:21 PM Numpy was successfully imported
+INFO 02/17/2018 01:36:21 PM Numbers added successfully
+DEBUG 02/17/2018 01:36:21 PM Sum = 1
+INFO 02/17/2018 01:36:21 PM Summation completed successfully
+INFO 02/17/2018 01:36:21 PM Summation function initiated
+INFO 02/17/2018 01:36:21 PM Numpy was successfully imported
+INFO 02/17/2018 01:36:21 PM Numbers added successfully
+DEBUG 02/17/2018 01:36:21 PM Sum = -5
+INFO 02/17/2018 01:36:21 PM Summation completed successfully
+INFO 02/17/2018 01:36:21 PM Summation function initiated
+INFO 02/17/2018 01:36:21 PM Numpy was successfully imported
+INFO 02/17/2018 01:36:21 PM Numbers added successfully
+DEBUG 02/17/2018 01:36:21 PM Sum = 5.25
+INFO 02/17/2018 01:36:21 PM Summation completed successfully
+INFO 02/17/2018 01:36:29 PM Succesfully imported modules
+INFO 02/17/2018 01:36:29 PM Found difference
+DEBUG 02/17/2018 01:36:29 PM Difference =1
+INFO 02/17/2018 01:36:29 PM Found difference
+DEBUG 02/17/2018 01:36:29 PM Difference =1
+INFO 02/17/2018 01:36:29 PM Found difference
+DEBUG 02/17/2018 01:36:29 PM Difference =5
+INFO 02/17/2018 01:36:29 PM Finished
+DEBUG 02/17/2018 01:36:29 PM Max Difference= 5
+INFO 02/17/2018 01:37:17 PM Succesfully imported modules
+INFO 02/17/2018 01:37:17 PM Found difference
+DEBUG 02/17/2018 01:37:17 PM Difference =1.0
+INFO 02/17/2018 01:37:17 PM Found difference
+DEBUG 02/17/2018 01:37:17 PM Difference =1.0
+INFO 02/17/2018 01:37:17 PM Found difference
+DEBUG 02/17/2018 01:37:17 PM Difference =5.0
+INFO 02/17/2018 01:37:17 PM Finished
+DEBUG 02/17/2018 01:37:17 PM Max Difference= 5.0
+INFO 02/17/2018 01:37:17 PM Begin
+INFO 02/17/2018 01:37:17 PM Recorded the minimum value
+INFO 02/17/2018 01:37:17 PM Recorded the maximum value
+INFO 02/17/2018 01:37:17 PM Created the tuple
+INFO 02/17/2018 01:37:17 PM Begin
+INFO 02/17/2018 01:37:17 PM Recorded the minimum value
+INFO 02/17/2018 01:37:17 PM Recorded the maximum value
+INFO 02/17/2018 01:37:17 PM Created the tuple
+INFO 02/17/2018 01:37:17 PM Begin
+INFO 02/17/2018 01:37:17 PM Recorded the minimum value
+INFO 02/17/2018 01:37:17 PM Recorded the maximum value
+INFO 02/17/2018 01:37:17 PM Created the tuple
+INFO 02/17/2018 01:37:17 PM Begin
+INFO 02/17/2018 01:37:17 PM Recorded the minimum value
+INFO 02/17/2018 01:37:17 PM Recorded the maximum value
+INFO 02/17/2018 01:37:17 PM Created the tuple
+INFO 02/17/2018 01:37:17 PM Succesfully imported modules
+INFO 02/17/2018 01:37:17 PM Found difference
+DEBUG 02/17/2018 01:37:17 PM Difference =1.0
+INFO 02/17/2018 01:37:17 PM Found difference
+DEBUG 02/17/2018 01:37:17 PM Difference =1.0
+INFO 02/17/2018 01:37:17 PM Found difference
+DEBUG 02/17/2018 01:37:17 PM Difference =3.0
+INFO 02/17/2018 01:37:17 PM Found difference
+DEBUG 02/17/2018 01:37:17 PM Difference =4.0
+INFO 02/17/2018 01:37:17 PM Finished
+DEBUG 02/17/2018 01:37:17 PM Max Difference= 4.0
+INFO 02/17/2018 01:37:17 PM Succesfully imported modules
+INFO 02/17/2018 01:37:17 PM Found difference
+DEBUG 02/17/2018 01:37:17 PM Difference =1.0
+INFO 02/17/2018 01:37:17 PM Found difference
+DEBUG 02/17/2018 01:37:17 PM Difference =1.0
+INFO 02/17/2018 01:37:17 PM Found difference
+DEBUG 02/17/2018 01:37:17 PM Difference =5.0
+INFO 02/17/2018 01:37:17 PM Finished
+DEBUG 02/17/2018 01:37:17 PM Max Difference= 5.0
+INFO 02/17/2018 01:37:17 PM Summation function initiated
+INFO 02/17/2018 01:37:17 PM Numpy was successfully imported
+INFO 02/17/2018 01:37:17 PM Numbers added successfully
+DEBUG 02/17/2018 01:37:17 PM Sum = 9
+INFO 02/17/2018 01:37:17 PM Summation completed successfully
+INFO 02/17/2018 01:37:17 PM Summation function initiated
+INFO 02/17/2018 01:37:17 PM Numpy was successfully imported
+INFO 02/17/2018 01:37:17 PM Numbers added successfully
+DEBUG 02/17/2018 01:37:17 PM Sum = 1
+INFO 02/17/2018 01:37:17 PM Summation completed successfully
+INFO 02/17/2018 01:37:17 PM Summation function initiated
+INFO 02/17/2018 01:37:17 PM Numpy was successfully imported
+INFO 02/17/2018 01:37:17 PM Numbers added successfully
+DEBUG 02/17/2018 01:37:17 PM Sum = -5
+INFO 02/17/2018 01:37:17 PM Summation completed successfully
+INFO 02/17/2018 01:37:17 PM Summation function initiated
+INFO 02/17/2018 01:37:17 PM Numpy was successfully imported
+INFO 02/17/2018 01:37:17 PM Numbers added successfully
+DEBUG 02/17/2018 01:37:17 PM Sum = 5.25
+INFO 02/17/2018 01:37:17 PM Summation completed successfully
+INFO 02/17/2018 01:38:36 PM Succesfully imported modules
+INFO 02/17/2018 01:38:36 PM Found difference
+DEBUG 02/17/2018 01:38:36 PM Difference =2.0
+INFO 02/17/2018 01:38:36 PM Found difference
+DEBUG 02/17/2018 01:38:36 PM Difference =1.0
+INFO 02/17/2018 01:38:36 PM Found difference
+DEBUG 02/17/2018 01:38:36 PM Difference =65.0
+INFO 02/17/2018 01:38:36 PM Finished
+DEBUG 02/17/2018 01:38:36 PM Max Difference= 65.0
